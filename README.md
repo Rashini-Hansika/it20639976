@@ -1,9 +1,4 @@
-<div align="right">
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-</div>
- 
 
 
 </div>
